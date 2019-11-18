@@ -1,0 +1,11 @@
+C:\Nate2019\NSS\workspace\c#\CarLot\bin\Debug\netcoreapp3.0\CarLot.exe
+C:\Nate2019\NSS\workspace\c#\CarLot\bin\Debug\netcoreapp3.0\CarLot.deps.json
+C:\Nate2019\NSS\workspace\c#\CarLot\bin\Debug\netcoreapp3.0\CarLot.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\CarLot\bin\Debug\netcoreapp3.0\CarLot.runtimeconfig.dev.json
+C:\Nate2019\NSS\workspace\c#\CarLot\bin\Debug\netcoreapp3.0\CarLot.dll
+C:\Nate2019\NSS\workspace\c#\CarLot\bin\Debug\netcoreapp3.0\CarLot.pdb
+C:\Nate2019\NSS\workspace\c#\CarLot\obj\Debug\netcoreapp3.0\CarLot.csprojAssemblyReference.cache
+C:\Nate2019\NSS\workspace\c#\CarLot\obj\Debug\netcoreapp3.0\CarLot.AssemblyInfoInputs.cache
+C:\Nate2019\NSS\workspace\c#\CarLot\obj\Debug\netcoreapp3.0\CarLot.AssemblyInfo.cs
+C:\Nate2019\NSS\workspace\c#\CarLot\obj\Debug\netcoreapp3.0\CarLot.dll
+C:\Nate2019\NSS\workspace\c#\CarLot\obj\Debug\netcoreapp3.0\CarLot.pdb
