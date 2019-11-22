@@ -8,33 +8,28 @@ namespace ClassIntro
         static void Main(string[] args)
         {
             List<Car> carLot = new List<Car>();
-            Car ford = new Car();
-            ford.Make = "Ford";
-            ford.Model = "Bronco";
+            Car ford = new Car("Ford", "Bronco", 80_000);
+            
             ford.Year = 1986;
             ford.Color = "Pearl";
-            ford.Mileage = 80_000;
             ford.IsInspected = true;
             ford.CountryOfORigin = "USA";
 
-            Car toyota = new Car()
+            Car toyota = new Car("Toyota", "4Runner", 300)
             {
-                Make = "Toyota",
-                Model = "4Runner",
+                
                 Year = 2019,
                 Color = "white",
-                Mileage = 300,
+                
                 IsInspected = false,
                 CountryOfORigin = "Japan"
             };
 
-            Car chevy = new Car()
+            Car chevy = new Car("chevy", "mali", 300000)
             {
-                Make = "chevy",
-                Model = "mali",
+               
                 Year = 2016,
                 Color = "pink",
-                Mileage = 300000,
                 IsInspected = false,
                 CountryOfORigin = "USA"
             };
@@ -46,6 +41,11 @@ namespace ClassIntro
             Console.WriteLine($"The ford has {ford.Mileage} miles");
             ford.Drive(10);
             Console.WriteLine($"The ford now has {ford.Mileage} miles");
+            Console.WriteLine(ford.Description);
+            Console.WriteLine(chevy.Description);
+            Console.WriteLine(toyota.Description);
+
+
 
 
         
